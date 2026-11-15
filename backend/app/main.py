@@ -42,8 +42,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include API Routers under /api/v1 and /api
-for prefix in [settings.API_V1_STR, "/api"]:
+# Include API Routers under /api/v1, /api, and root prefix
+for prefix in [settings.API_V1_STR, "/api", ""]:
     app.include_router(routes_auth.router, prefix=prefix)
     app.include_router(routes_chat.router, prefix=prefix)
     app.include_router(routes_classifier.router, prefix=prefix)
@@ -57,6 +57,7 @@ for prefix in [settings.API_V1_STR, "/api"]:
     app.include_router(routes_workflows.router, prefix=prefix)
 
 @app.get("/api/status")
+@app.get("/status")
 def api_status():
     return {
         "platform": settings.PROJECT_NAME,
