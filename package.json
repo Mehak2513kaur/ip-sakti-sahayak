@@ -2,6 +2,7 @@
   "name": "ip-sakti-sahayak",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@10.33.4",
   "scripts": {
     "build": "cd frontend && pnpm install && pnpm run build",
     "dev": "cd frontend && pnpm run dev"
