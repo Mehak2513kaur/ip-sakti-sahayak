@@ -1,0 +1,67 @@
+[
+  {
+    "document_title": "US FDA Dietary Supplement Health and Education Act (DSHEA) of 1994 & 21 CFR Part 111",
+    "issuing_authority": "US Food and Drug Administration (FDA), Center for Food Safety and Applied Nutrition (CFSAN)",
+    "jurisdiction": "USA",
+    "legal_category": "Dietary Supplements & Herbal Exports",
+    "section_number": "21 U.S.C. 321(ff) & 21 CFR 111",
+    "official_reference": "Public Law 103-417",
+    "source_url": "https://www.fda.gov/food/dietary-supplements",
+    "snippet": "Ayurvedic oral formulations exported to the USA are predominantly regulated as Dietary Supplements rather than drugs. Mandatory requirements: Current Good Manufacturing Practice (cGMP under 21 CFR 111), facility registration under FSMA, Prior Notice of imported food shipments. Permitted claims: Structure/Function claims (e.g. 'supports immune health') accompanied by the mandatory statutory disclaimer: 'These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.' Disease claims cause immediate reclassification as unapproved new drugs.",
+    "status": "Active",
+    "publication_year": 1994,
+    "keywords": "us fda, dshea 1994, dietary supplement, 21 cfr 111, structure function claims, disease claims prohibited, us export"
+  },
+  {
+    "document_title": "US FDA Modernization of Cosmetics Regulation Act of 2022 (MoCRA)",
+    "issuing_authority": "US Food and Drug Administration (FDA)",
+    "jurisdiction": "USA",
+    "legal_category": "Cosmetics Regulation",
+    "section_number": "Public Law 117-328, Subtitle E",
+    "official_reference": "21 U.S.C. 364 et seq.",
+    "source_url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+    "snippet": "Enacted in December 2022, MoCRA significantly expands FDA oversight over cosmetic products. For Indian herbal cosmetics (e.g. Ayurvedic hair oils, facial serums, creams): mandatory cosmetic facility registration, mandatory cosmetic product listing with ingredient disclosure, mandatory safety substantiation, adverse event reporting within 15 days, fragrance allergen disclosures, and GMP compliance.",
+    "status": "Active",
+    "publication_year": 2022,
+    "keywords": "mocra 2022, cosmetic facility registration, cosmetic listing, safety substantiation, herbal cosmetic export, fda cosmetics"
+  },
+  {
+    "document_title": "Directive 2004/24/EC on Traditional Herbal Medicinal Products (THMPD)",
+    "issuing_authority": "European Parliament & European Medicines Agency (EMA) Committee on Herbal Medicinal Products (HMPC)",
+    "jurisdiction": "European Union",
+    "legal_category": "Traditional Herbal Medicines",
+    "section_number": "Directive 2004/24/EC amending Directive 2001/83/EC",
+    "official_reference": "Official Journal of the European Union L 136/85",
+    "source_url": "https://www.ema.europa.eu/en/human-regulatory/herbal-medicinal-products",
+    "snippet": "Provides a simplified registration procedure for traditional herbal medicinal products. Crucial eligibility requirement: demonstration of continuous medicinal use throughout a period of at least 30 years preceding the application, including at least 15 years of documented use within the European Union. Products lacking 15-year EU history are frequently routed as food supplements under Novel Food Regulation (EU) 2015/2283.",
+    "status": "Active",
+    "publication_year": 2004,
+    "keywords": "eu thmpd, directive 2004/24/ec, 30 year traditional use, 15 year eu use, simplified registration, novel food eu"
+  },
+  {
+    "document_title": "Australian Therapeutic Goods Administration (TGA) Complementary Medicines Framework",
+    "issuing_authority": "Therapeutic Goods Administration (TGA), Department of Health and Aged Care",
+    "jurisdiction": "Australia",
+    "legal_category": "Complementary Medicines",
+    "section_number": "Therapeutic Goods Act 1989 & Regulations 1990",
+    "official_reference": "TGA ARGCM Version 5.0",
+    "source_url": "https://www.tga.gov.au/complementary-medicines",
+    "snippet": "Ayurvedic medicines in Australia are regulated as Complementary Medicines under a risk-based framework. Low-risk medicines containing pre-approved permitted ingredients with traditional indications can be self-assessed and 'Listed' on the Australian Register of Therapeutic Goods (ARTG) yielding an AUST L number. High-risk or novel formulations require formal pre-market evaluation and 'Registration' (AUST R number).",
+    "status": "Active",
+    "publication_year": 1989,
+    "keywords": "tga australia, complementary medicine, aust l, aust r, artg listing, traditional indication"
+  },
+  {
+    "document_title": "Health Canada Natural Health Products Regulations (NHPR)",
+    "issuing_authority": "Natural and Non-prescription Health Products Directorate (NNHPD), Health Canada",
+    "jurisdiction": "Canada",
+    "legal_category": "Natural Health Products",
+    "section_number": "SOR/2003-196",
+    "official_reference": "Food and Drugs Act, Canada",
+    "source_url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription.html",
+    "snippet": "Ayurvedic products are classified as Natural Health Products (NHPs). All NHPs sold in Canada must have a product license before commercialization, indicated by an eight-digit Natural Product Number (NPN). Applications can be expedited by referencing pre-cleared Health Canada Ayurvedic Monograph (e.g. Withania somnifera, Curcuma longa). Canadian importers must possess an active Site License demonstrating GMP compliance.",
+    "status": "Active",
+    "publication_year": 2004,
+    "keywords": "health canada, npn natural product number, site license, nnhpd, ayurvedic monograph, nhpr"
+  }
+]

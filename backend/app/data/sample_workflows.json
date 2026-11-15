@@ -1,0 +1,99 @@
+[
+  {
+    "workflow_id": "wf_1_hair_oil",
+    "title": "Workflow 1: Launching an Ayurvedic Herbal Hair Oil in India",
+    "persona": "Ayurvedic Entrepreneur / D2C Founder",
+    "description": "An entrepreneur wants to formulate and market an Ayurvedic herbal hair oil containing Bhringraj (Eclipta alba), Amla (Phyllanthus emblica), and Brahmi (Bacopa monnieri) in a sesame and coconut oil base.",
+    "product_data": {
+      "product_name": "Kesh-Tejas Ayurvedic Hair Vitalizer Oil",
+      "ingredients": ["Bhringraj (Eclipta alba)", "Amla (Phyllanthus emblica)", "Brahmi (Bacopa monnieri)", "Til Taila (Sesamum indicum)", "Narikela Taila (Cocos nucifera)"],
+      "botanical_names": ["Eclipta alba", "Phyllanthus emblica", "Bacopa monnieri"],
+      "classical_text": "Bhavaprakasha Nighantu & Sahasrayogam",
+      "intended_claims": "Strengthens hair roots, mitigates premature greying, relieves stress-induced hair fall (Khalitya)",
+      "intended_use": "Topical application to scalp and hair"
+    },
+    "classification_analysis": {
+      "category": "Patent or Proprietary Ayurvedic Medicine (ASU Drug)",
+      "legal_basis": "Drugs and Cosmetics Act, 1940 Section 3(h)",
+      "licensing_path": "State Licensing Authority (SLA) AYUSH Form 24-D application for Form 25-D manufacturing license",
+      "gmp_requirement": "Schedule T GMP compliance of manufacturing premises",
+      "alternative_classification": "If manufactured strictly according to classical formula without modification, qualifies as Classical Ayurvedic Drug under Section 3(a). If marketed solely for hair conditioning without therapeutic claims, could be licensed as Ayurvedic Cosmetic."
+    },
+    "ip_strategy": {
+      "patentability": "Low patentability for the composition under Section 3(p) (traditional knowledge) and Section 3(e) (mere admixture). Unless synergistic efficacy is proven with comparative clinical trials or novel extraction technology is deployed, focus IP protection on Trademark and Trade Dress.",
+      "trademark_recommendation": "File word mark 'KESH-TEJAS' and distinctive device logo in Class 5 (Ayurvedic Medicines) and Class 3 (Cosmetics). Disclaim exclusive rights over descriptive words like 'Kesh' or 'Taila'.",
+      "design_registration": "Protect unique ergonomic bottle design and dispensing applicator under the Designs Act, 2000."
+    },
+    "abs_compliance": {
+      "applicability": "Section 7 of Biological Diversity Act, 2002. Since the entrepreneur is an Indian entity utilizing biological resources commercially, State Biodiversity Board (SBB) prior intimation (Form I) applies. If biological resources are purchased from local cultivation with Certificate of Origin, exemption under 2023 Amendment Act can be invoked."
+    }
+  },
+  {
+    "workflow_id": "wf_2_ashwagandha_extraction",
+    "title": "Workflow 2: Evaluating Patentability of a Novel Ashwagandha Extraction Process",
+    "persona": "Ayurvedic Phytochemistry Researcher & Tech Transfer Officer",
+    "description": "A research laboratory has developed a novel supercritical fluid CO2 extraction process for Ashwagandha (Withania somnifera) root that isolates withanolide glycosides at 98% purity with 4x yield and zero thermal degradation.",
+    "product_data": {
+      "product_name": "WithaPure-SCFE Standardized Ashwagandha Extract",
+      "ingredients": ["Ashwagandha Root (Withania somnifera)", "Supercritical CO2 with ethanol co-solvent"],
+      "botanical_names": ["Withania somnifera Dunal"],
+      "classical_text": "Charaka Samhita (Rasayana Adhyaya)",
+      "intended_claims": "Process patent on extraction parameters (temperature, pressure, co-solvent gradient) and standardized bioactive composition",
+      "intended_use": "Active pharmaceutical ingredient (API) for neuroprotective formulations"
+    },
+    "classification_analysis": {
+      "category": "Phytopharmaceutical Drug / Standardized Botanical Extract",
+      "legal_basis": "CDSCO New Drugs and Clinical Trials Rules 2019, Chapter V / Rule 22",
+      "licensing_path": "Form CT-18 / CT-21 from Central Drugs Standard Control Organization (CDSCO) Central Licensing Authority",
+      "gmp_requirement": "API-grade Schedule M / ICH Q7 Good Manufacturing Practices"
+    },
+    "ip_strategy": {
+      "patentability": "High patentability for the Process Claims (novel supercritical extraction parameters, pressure-temperature profile, yield enhancement). Overcomes Section 3(p) because the technological process itself is not traditional knowledge. Overcomes Section 3(d) by providing comparative purity and bioavailability data.",
+      "mandatory_nba_approval": "CRITICAL REQUIREMENT: Under Section 6 of the Biological Diversity Act, 2002, the applicant MUST submit Form III to the National Biodiversity Authority (NBA) before the grant of the patent. Source and geographical origin of Withania somnifera must be declared in the patent specification under Section 10(4)(ii)(D).",
+      "patent_prosecution_tips": "Draft independent claims focused on the multi-stage extraction process. Structure dependent claims on the specific bioactive ratio of Withaferin A and Withanolide D."
+    },
+    "abs_compliance": {
+      "applicability": "Mandatory NBA Form III application for IPR grant. NBA will negotiate benefit sharing agreement (0.2% - 1.0% of annual gross sales or 2.0% - 5.0% of licensing royalty upon commercialization)."
+    }
+  },
+  {
+    "workflow_id": "wf_3_usa_export_serum",
+    "title": "Workflow 3: Exporting Gotu Kola & Turmeric Herbal Facial Serum to the USA",
+    "persona": "Indian Herbal Cosmetics Exporter / International Regulatory Lead",
+    "description": "An Indian skincare enterprise plans to export a botanical anti-aging face serum containing Gotu Kola (Centella asiatica), Turmeric (Curcuma longa), and Kumkumadi Tailam to the United States market.",
+    "product_data": {
+      "product_name": "AyurGlow Mandukaparni & Haridra Radiance Serum",
+      "ingredients": ["Centella asiatica (Gotu Kola) leaf extract", "Curcuma longa (Turmeric) rhizome CO2 extract", "Kumkumadi Tailam", "Vegetable glycerin", "Sandalwood floral water"],
+      "botanical_names": ["Centella asiatica", "Curcuma longa", "Santalum album"],
+      "classical_text": "Ashtanga Hridaya (Mukhalepana section)",
+      "intended_claims": "Enhances skin elasticity, promotes youthful radiance, reduces appearance of fine lines",
+      "intended_use": "Topical cosmetic serum"
+    },
+    "classification_analysis": {
+      "indian_category": "Ayurvedic Cosmetic (Form 32-A license from SLA)",
+      "us_category": "Cosmetic Product under Federal Food, Drug, and Cosmetic Act (FD&C Act) & MoCRA 2022",
+      "boundary_warning": "Cannot claim 'reverses cellular skin aging' or 'repairs damaged DNA' in the US market, as such claims trigger FDA classification as an unapproved drug under 21 U.S.C. 321(g)."
+    },
+    "ip_strategy": {
+      "trademark_protection": "File US trademark via USPTO TEAS application or WIPO Madrid Protocol designating the United States in Class 3.",
+      "copyright_and_packaging": "Register label artwork and proprietary packaging design."
+    },
+    "international_compliance": {
+      "us_regulatory_body": "US Food and Drug Administration (FDA) CFSAN / Office of Cosmetics and Colors",
+      "mocra_mandates": [
+        "Mandatory Cosmetic Facility Registration with FDA via Cosmetics Direct portal",
+        "Mandatory Cosmetic Product Listing (all ingredients with fragrance allergen disclosure)",
+        "Safety Substantiation dossier prior to retail distribution",
+        "Mandatory US Agent designation for foreign manufacturing facilities",
+        "Serious Adverse Event Reporting (SAER) compliance within 15 days"
+      ],
+      "mandatory_analytical_testing": [
+        "Heavy metal screening (Lead < 10 ppm, Arsenic < 3 ppm, Mercury < 1 ppm)",
+        "Pesticide residue screening per USP <561>",
+        "Microbial limits testing per USP <61> and <62>",
+        "California Proposition 65 heavy metal compliance"
+      ],
+      "import_formalities": "FDA Prior Notice of Importation, US Customs and Border Protection (CBP) clearance, Harmonized Tariff Schedule (HTS) Code 3304.99."
+    }
+  }
+]

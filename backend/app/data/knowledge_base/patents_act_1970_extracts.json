@@ -1,0 +1,67 @@
+[
+  {
+    "document_title": "The Patents Act, 1970 (as amended)",
+    "issuing_authority": "Office of the Controller General of Patents, Designs and Trade Marks (IP India)",
+    "jurisdiction": "India",
+    "legal_category": "Patent Law",
+    "section_number": "Section 3(p)",
+    "official_reference": "Act No. 39 of 1970, Section 3(p)",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "snippet": "Section 3(p) specifies that an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components is not an invention within the meaning of this Act.",
+    "status": "Active",
+    "publication_year": 2002,
+    "keywords": "traditional knowledge, section 3p, prior art, ayurveda, herbal formulation, patent exclusion"
+  },
+  {
+    "document_title": "The Patents Act, 1970 (as amended)",
+    "issuing_authority": "Office of the Controller General of Patents, Designs and Trade Marks (IP India)",
+    "jurisdiction": "India",
+    "legal_category": "Patent Law",
+    "section_number": "Section 3(e)",
+    "official_reference": "Act No. 39 of 1970, Section 3(e)",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "snippet": "Section 3(e) excludes a substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance. To overcome 3(e), applicants must submit empirical data demonstrating synergistic therapeutic efficacy beyond individual additive effects.",
+    "status": "Active",
+    "publication_year": 1970,
+    "keywords": "mere admixture, synergistic effect, section 3e, aggregation of properties, herbal combination, formulation"
+  },
+  {
+    "document_title": "The Patents Act, 1970 (as amended)",
+    "issuing_authority": "Office of the Controller General of Patents, Designs and Trade Marks (IP India)",
+    "jurisdiction": "India",
+    "legal_category": "Patent Law",
+    "section_number": "Section 3(d)",
+    "official_reference": "Act No. 39 of 1970, Section 3(d)",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "snippet": "Section 3(d) bars patentability of the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance, or the mere discovery of any new property or new use for a known substance.",
+    "status": "Active",
+    "publication_year": 2005,
+    "keywords": "enhanced efficacy, known substance, new form, extract, isolate, section 3d"
+  },
+  {
+    "document_title": "The Patents Act, 1970 (as amended)",
+    "issuing_authority": "Office of the Controller General of Patents, Designs and Trade Marks (IP India)",
+    "jurisdiction": "India",
+    "legal_category": "Patent Law",
+    "section_number": "Section 10(4)(ii)(D)",
+    "official_reference": "Act No. 39 of 1970, Section 10(4)(ii)(D)",
+    "source_url": "https://ipindia.gov.in/acts-patents.htm",
+    "snippet": "Requires the applicant to disclose the source and geographical origin of any biological material specified in the specification and used for the invention. Failure to disclose or wrong disclosure is a statutory ground for opposition and revocation under Section 25 and Section 64.",
+    "status": "Active",
+    "publication_year": 2002,
+    "keywords": "biological material disclosure, geographical origin, source disclosure, biodiversity, section 10"
+  },
+  {
+    "document_title": "Guidelines for Examination of Patent Applications in the field of Traditional Knowledge and Biological Material",
+    "issuing_authority": "Office of the Controller General of Patents, Designs and Trade Marks (IP India)",
+    "jurisdiction": "India",
+    "legal_category": "Patent Examination Guidelines",
+    "section_number": "Guiding Principle 1-5",
+    "official_reference": "CGPDTM Guidelines No. CG/F/Guidelines/2012/TK",
+    "source_url": "https://ipindia.gov.in/writereaddata/Portal/Images/pdf/TK_Guidelines_18October2012.pdf",
+    "snippet": "The Patent Office examines claims against classical Ayurvedic texts and TKDL. If an ingredient is known for treating a symptom in traditional texts, merely combining it with another known herb constitutes traditional knowledge under Section 3(p) unless a novel technological extraction process or non-obvious synergistic interaction is conclusively established with comparative experimental evidence.",
+    "status": "Active",
+    "publication_year": 2012,
+    "keywords": "tkdl examination, patent examiner guidelines, biological material, synergy evidence, extraction process"
+  }
+]

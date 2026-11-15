@@ -1,0 +1,67 @@
+[
+  {
+    "document_title": "Drugs and Cosmetics Act, 1940 and Rules 1945",
+    "issuing_authority": "Ministry of AYUSH & Central Drugs Standard Control Organization (CDSCO)",
+    "jurisdiction": "India",
+    "legal_category": "Drug Regulatory Law",
+    "section_number": "Section 3(a)",
+    "official_reference": "Act No. 23 of 1940, Section 3(a)",
+    "source_url": "https://ayush.gov.in/acts-and-rules.html",
+    "snippet": "Defines 'Ayurvedic, Siddha or Unani drug' to include all medicines intended for internal or external use for or in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, manufactured exclusively in accordance with the formulae described in the authoritative books of Ayurvedic, Siddha and Unani Tibb systems specified in the First Schedule.",
+    "status": "Active",
+    "publication_year": 1940,
+    "keywords": "classical ayurvedic drug, section 3a, first schedule, authoritative classical texts, charaka, sushruta"
+  },
+  {
+    "document_title": "Drugs and Cosmetics Act, 1940 and Rules 1945",
+    "issuing_authority": "Ministry of AYUSH & CDSCO",
+    "jurisdiction": "India",
+    "legal_category": "Drug Regulatory Law",
+    "section_number": "Section 3(h)",
+    "official_reference": "Act No. 23 of 1940, Section 3(h)",
+    "source_url": "https://ayush.gov.in/acts-and-rules.html",
+    "snippet": "Defines 'Patent or Proprietary medicine' in relation to Ayurvedic, Siddha or Unani systems as a formulation containing only ingredients mentioned in the First Schedule authoritative texts, but manufactured not strictly in accordance with classical formulae, but rather using proprietary proportions or excipients.",
+    "status": "Active",
+    "publication_year": 1940,
+    "keywords": "patent or proprietary medicine, section 3h, proprietary ayurvedic medicine, modified classical formulation"
+  },
+  {
+    "document_title": "Drugs and Cosmetics Rules, 1945",
+    "issuing_authority": "Ministry of AYUSH",
+    "jurisdiction": "India",
+    "legal_category": "Licensing & Safety Proofs",
+    "section_number": "Rule 158-B",
+    "official_reference": "G.S.R. 560(E) dated 10-08-2010",
+    "source_url": "https://ayush.gov.in/acts-and-rules.html",
+    "snippet": "Specifies regulatory requirements for proof of effectiveness and safety for ASU drugs. Classical formulations require textual citations from the First Schedule without requiring animal toxicity studies. Proprietary formulations with textual ingredients for classical indications require published textual references. Modified formulations with new therapeutic claims require pilot clinical trial data and safety testing.",
+    "status": "Active",
+    "publication_year": 2010,
+    "keywords": "rule 158b, proof of safety, clinical trial requirements, proprietary medicine licensing, asu drug licensing"
+  },
+  {
+    "document_title": "Drugs and Cosmetics Rules, 1945",
+    "issuing_authority": "Ministry of AYUSH & State Licensing Authorities",
+    "jurisdiction": "India",
+    "legal_category": "Drug Manufacturing Licensing",
+    "section_number": "Form 24-D and Form 25-D",
+    "official_reference": "Part XVI, Rule 153",
+    "source_url": "https://ayush.gov.in/acts-and-rules.html",
+    "snippet": "Form 24-D is the statutory application form to manufacture Ayurvedic, Siddha or Unani drugs for sale. Form 25-D is the license issued by the State Licensing Authority (SLA) upon fulfillment of Good Manufacturing Practices (Schedule T) compliance, qualified technical personnel (BAMS/B.Pharm Ayurveda), and analytical testing facilities.",
+    "status": "Active",
+    "publication_year": 1945,
+    "keywords": "form 24d, form 25d, state licensing authority, schedule t gmp, ayurvedic manufacturing license"
+  },
+  {
+    "document_title": "New Drugs and Clinical Trials Rules, 2019",
+    "issuing_authority": "CDSCO, Ministry of Health and Family Welfare",
+    "jurisdiction": "India",
+    "legal_category": "Phytopharmaceuticals",
+    "section_number": "Chapter V, Rule 22",
+    "official_reference": "G.S.R. 227(E) dated 19-03-2019",
+    "source_url": "https://cdsco.gov.in",
+    "snippet": "Defines Phytopharmaceutical drug as a purified, standardized fraction with defined minimum four bioactive or analytical marker compounds of an extract of a medicinal plant or its part, for internal or external use. Requires CDSCO Central Licensing Authority approval, formal IND (Investigational New Drug) application, preclinical toxicology, and phase I-III clinical trials.",
+    "status": "Active",
+    "publication_year": 2019,
+    "keywords": "phytopharmaceutical, standardized extract, cdsco approval, marker compounds, clinical trials"
+  }
+]
